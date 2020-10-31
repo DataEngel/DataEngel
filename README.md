@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋😄. 
 
-<!--
-**DataEngel/DataEngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Miguel Angel Velazquez Romero, I am a Student of **Computer Systems Enginner** and I also study in Platzi **Data Science**.
 
-Here are some ideas to get you started:
+![Untitled](https://user-images.githubusercontent.com/63415652/89370386-34626400-d6a6-11ea-8289-232a4ffd6c64.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📫 How to reach me: miguel.program.73@gmail.com is my personal email. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dataengel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/DataEngel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dataengel/?hl=es-la)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DataEngel) 
+
+And my youtube channel, his name is [!!!SOFTWARE AL LÍMITE!](https://www.youtube.com/channel/UC2TSoXF4l2-I40eIMt-jrNA) and in Platzi my nick name is @DataEngel to access with www.platzi.com/@MiguelProgram73 and **you can see all my certifications and my careers**. Well, my nick name is DataEngel in all my social networks.   
+
+---
+
+# You can find my featured proyects like pinned down here: 👇 
