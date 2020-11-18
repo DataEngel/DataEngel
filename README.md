@@ -1,6 +1,6 @@
 ## Hi there 👋😄. 
 
-I am a Student of **Computer Systems Enginner** and I also study in Platzi **Data Science**. I spend my time learning. 
+I am a Student of **Computer Systems Enginner** and I also study **Data Science** in Platzi. I spend my time learning. 
 
 ![Untitled](https://user-images.githubusercontent.com/63415652/89370386-34626400-d6a6-11ea-8289-232a4ffd6c64.png)
 
