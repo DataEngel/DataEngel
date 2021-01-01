@@ -2,7 +2,7 @@
 
 I am a Student of **Computer Systems Enginner** and I also study **Data Science** in Platzi. I spend my time learning.  
 
-![2](https://user-images.githubusercontent.com/63415652/103447408-98d32080-4c50-11eb-9a09-984cdc61c921.PNG)
+![3](https://user-images.githubusercontent.com/63415652/103447461-2747a200-4c51-11eb-8bba-5831efee64bd.PNG)
 
 * 📫 How to reach me: miguel.program.73@gmail.com is my personal email and here is my social networks. 
 
