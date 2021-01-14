@@ -1,6 +1,8 @@
 ## Hi there 👋😄. 
 
-I am a Student of **Computer Systems Enginner** and I also study **Data Science** in Platzi. I spend my time learning.  
+I am a Student of **Computer Systems Enginner** and I also study **Data Science and Machine Learning** in Platzi. I spend my time learning.  
+
+![Professional skills](https://user-images.githubusercontent.com/63415652/104547434-24a36000-55f4-11eb-9196-b58b77b1661a.png)
 
 * 📫 How to reach me: miguel.program.73@gmail.com is my personal email and here is my social networks. 
 
