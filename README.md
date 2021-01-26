@@ -1,5 +1,4 @@
-
-![Professional skills](https://user-images.githubusercontent.com/63415652/105779906-f4818880-5f34-11eb-9c61-2eef2fa998cf.png)
+![5](https://user-images.githubusercontent.com/63415652/105883092-0eba7580-5fcc-11eb-822e-76ba4cfebd70.PNG)
 
 * 📫 How to reach me: miguel.program.73@gmail.com This is my personal email and here is my social networks. 
 
