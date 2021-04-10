@@ -1,5 +1,3 @@
-![5](https://user-images.githubusercontent.com/63415652/105883092-0eba7580-5fcc-11eb-822e-76ba4cfebd70.PNG)
-
 * 📫 How to reach me: miguel.program.73@gmail.com This is my personal email and here is my social networks. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dataengel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/DataEngel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dataengel/?hl=es-la)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DataEngel) 
