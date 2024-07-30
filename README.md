@@ -5,7 +5,7 @@
 * ### 📚 My Professional Social Media Channels Focused on AI and ML Engineering Outreach: 
     * [Tiktok](https://www.tiktok.com/@data_engel): Short scientific dissemination videos on artificial intelligence and machine learning.
     * [Instagram](https://www.instagram.com/dataengel/): Visual content creation focused on artificial intelligence and machine learning.
-    * [Youtube](https://www.youtube.com/channel/UCpa6Y_D8EMyB6f776RSzy4A): In-depth video content on artificial intelligence and machine learning.
+    * [Youtube](https://www.youtube.com/@DataEngel): In-depth video content on artificial intelligence and machine learning.
 
 ---
 
